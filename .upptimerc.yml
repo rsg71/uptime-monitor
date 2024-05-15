@@ -9,6 +9,8 @@ sites:
     url: https://rg-language.herokuapp.com
   - name: Run with Johnny
     url: https://runwithjohnny.com
+  - name: Weather API
+    url: https://weatherapi20240305190422.azurewebsites.net/weather?city=Miami
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
