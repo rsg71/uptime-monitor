@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 287,
-    "timeWeek": 213,
-    "timeMonth": 214,
-    "timeYear": 217,
+    "time": 218,
+    "timeDay": 320,
+    "timeWeek": 231,
+    "timeMonth": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 58,
-    "timeWeek": 100,
+    "time": 135,
+    "timeDay": 281,
+    "timeWeek": 134,
     "timeMonth": 126,
-    "timeYear": 134,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/runwithjohnny.com.ico",
     "slug": "run-with-johnny",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.36%",
+    "uptimeDay": "22.76%",
+    "uptimeWeek": "88.97%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "99.36%",
     "time": 112,
-    "timeDay": 131,
-    "timeWeek": 95,
-    "timeMonth": 107,
+    "timeDay": 0,
+    "timeWeek": 91,
+    "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-07-03": 0
+      "2024-07-04": 62,
+      "2024-07-03": 1050
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 146,
-    "timeWeek": 184,
-    "timeMonth": 214,
-    "timeYear": 222,
+    "time": 225,
+    "timeDay": 379,
+    "timeWeek": 222,
+    "timeMonth": 212,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   }
 ]
