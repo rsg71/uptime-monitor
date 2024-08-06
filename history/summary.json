@@ -22,7 +22,7 @@
     "url": "https://rg-language.herokuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/rg-language.herokuapp.com.ico",
     "slug": "rg-language",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 217,
     "timeMonth": 178,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   },
   {
     "name": "Run with Johnny",
@@ -44,12 +46,12 @@
     "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.70%",
+    "uptimeMonth": "93.83%",
     "uptimeYear": "97.21%",
     "time": 958,
     "timeDay": 387,
     "timeWeek": 280,
-    "timeMonth": 1419,
+    "timeMonth": 1431,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2024-07-27": 21,
