@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 247,
     "timeDay": 174,
-    "timeWeek": 246,
+    "timeWeek": 239,
     "timeMonth": 265,
     "timeYear": 247,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 64,
-    "timeWeek": 109,
+    "timeWeek": 103,
     "timeMonth": 148,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -40,18 +40,19 @@
     "url": "https://runwithjohnny.com",
     "icon": "https://icons.duckduckgo.com/ip3/runwithjohnny.com.ico",
     "slug": "run-with-johnny",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "74.15%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "74.58%",
     "uptimeWeek": "84.97%",
     "uptimeMonth": "95.91%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 920,
     "timeDay": 319,
-    "timeWeek": 1123,
+    "timeWeek": 1090,
     "timeMonth": 917,
     "timeYear": 920,
     "dailyMinutesDown": {
+      "2024-11-08": 0,
       "2024-11-07": 367,
       "2024-11-06": 251,
       "2024-11-05": 207,
@@ -67,7 +68,7 @@
       "2024-07-27": 21,
       "2024-07-20": 543,
       "2024-07-08": 769,
-      "2024-07-07": 537
+      "2024-07-07": 503
     }
   },
   {
@@ -83,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 139,
-    "timeWeek": 179,
+    "timeWeek": 173,
     "timeMonth": 214,
     "timeYear": 284,
     "dailyMinutesDown": {}
