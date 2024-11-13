@@ -1,7 +1,7 @@
 url: https://weatherapi20240305190422.azurewebsites.net/weather?city=Miami
 status: up
 code: 200
-responseTime: 201
-lastUpdated: 2024-11-12T23:07:10.775Z
+responseTime: 160
+lastUpdated: 2024-11-13T23:07:20.599Z
 startTime: 2024-05-15T00:57:41.505Z
 generator: Upptime <https://github.com/upptime/upptime>
