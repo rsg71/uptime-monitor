@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 243,
-    "timeWeek": 304,
-    "timeMonth": 273,
+    "timeDay": 259,
+    "timeWeek": 313,
+    "timeMonth": 262,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 47,
-    "timeWeek": 200,
-    "timeMonth": 154,
+    "timeDay": 110,
+    "timeWeek": 196,
+    "timeMonth": 150,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,16 @@
     "slug": "run-with-johnny",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "95.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "95.47%",
     "uptimeYear": "98.88%",
-    "time": 906,
-    "timeDay": 2801,
-    "timeWeek": 809,
-    "timeMonth": 900,
-    "timeYear": 906,
+    "time": 905,
+    "timeDay": 2869,
+    "timeWeek": 823,
+    "timeMonth": 905,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2024-11-22": 11,
       "2024-11-20": 21,
       "2024-11-18": 26,
       "2024-11-09": 21,
@@ -72,7 +71,7 @@
       "2024-07-27": 21,
       "2024-07-20": 543,
       "2024-07-08": 769,
-      "2024-07-07": 371
+      "2024-07-07": 389
     }
   },
   {
@@ -86,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 123,
-    "timeWeek": 269,
-    "timeMonth": 220,
-    "timeYear": 279,
+    "time": 278,
+    "timeDay": 149,
+    "timeWeek": 264,
+    "timeMonth": 215,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   }
 ]
