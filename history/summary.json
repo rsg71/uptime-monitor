@@ -40,12 +40,12 @@
     "url": "https://runwithjohnny.com",
     "icon": "https://icons.duckduckgo.com/ip3/runwithjohnny.com.ico",
     "slug": "run-with-johnny",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.52%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "98.51%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "98.96%",
+    "uptimeYear": "98.98%",
     "time": 889,
     "timeDay": 300,
     "timeWeek": 289,
@@ -75,7 +75,7 @@
       "2024-07-27": 21,
       "2024-07-20": 543,
       "2024-07-08": 769,
-      "2024-07-07": 144
+      "2024-07-07": 56
     }
   },
   {
