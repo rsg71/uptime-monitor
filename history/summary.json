@@ -4,7 +4,7 @@
     "url": "https://www.robertgreenawalt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertgreenawalt.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 276,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2025-02-03": 0,
       "2024-12-13": 1016,
       "2024-12-12": 1389
     }
